@@ -2,10 +2,6 @@
 
 Offline Android app: Kotlin, Jetpack Compose, Room. No accounts, no internet.
 
-## Updating from version 0.1
-Replace your project files with these and press Run. The app installs over the old one and your
-data is kept (the database upgrades itself). Do not uninstall the app first. If Gradle asks, choose
-**Sync Now**.
 
 ## Tabs
 - **Home:** Available money, savings total, and week / month / year / lifetime stats.
